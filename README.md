@@ -25,8 +25,8 @@ I enjoy learning, sharing what I know, simplifying things, mentoring, being ment
 
 ### 📈 Some Numbers... ###
 
-|<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tinabme&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=solarized-light&hide=contribs,issues" />|
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinabme&layout=compact&theme=solarized-light&langs_count=7" />|
+|<img valign="top" width="430px" src="https://github-readme-stats.vercel.app/api?username=tinabme&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=solarized-light&hide=contribs,issues" />|
+<img  width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinabme&layout=compact&theme=solarized-light&langs_count=7" />|
 
 
 ---
