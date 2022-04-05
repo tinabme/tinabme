@@ -9,7 +9,7 @@ Delivering high Performance, Scalable and Available software solutions, in our j
 ### 🐾 On the humanity side... ###
 **Business**
 
-I enjoy learning, sharing what I know, simplifying things, mentoring, being monitored and challenging others to reach for the stars. ✨
+I enjoy learning, sharing what I know, simplifying things, mentoring, being mentored and challenging others to reach for the stars. ✨
 
 **Home**
 
