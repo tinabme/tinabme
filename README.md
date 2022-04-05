@@ -1,5 +1,4 @@
-
-![smooth-smoke-wav-tina-palm](https://user-images.githubusercontent.com/464067/161393626-c23f3433-f77b-4289-b710-ad2a5a4a7c4f.jpg)
+![smooth-smoke-wave-simple](https://user-images.githubusercontent.com/464067/161755625-a73be719-befb-4baa-9e19-9071bbe20504.jpg)
 
 ### 🏢 On the Business side... ###
 I am a Senior Engineering Manager at Malwarebytes, leading a team of brilliant Engineers, all remote and around the globe.
@@ -21,6 +20,14 @@ I enjoy learning, sharing what I know, simplifying things, mentoring, being moni
 🏈 [Tampa Bay Buccaneers](https://www.buccaneers.com/)
 
 🏑 [Tampa Bay Lightning](https://www.nhl.com/lightning)
+
+---
+
+### 📈 Some Numbers... ###
+
+|<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tinabme&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=solarized-light&hide=contribs,issues" />|
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinabme&layout=compact&theme=solarized-light&langs_count=7" />|
+
 
 ---
 
