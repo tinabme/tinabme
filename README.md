@@ -1,8 +1,8 @@
 ![smooth-smoke-wave-simple](https://user-images.githubusercontent.com/464067/161755625-a73be719-befb-4baa-9e19-9071bbe20504.jpg)
 
 ### 🏢 On the Business side... ###
-I am a Senior Engineering Manager at Malwarebytes, leading a team of brilliant Engineers, all remote and around the globe.
-Delivering high Performance, Scalable and Available software solutions, in our journey to provide *"Cyber protection for everyone"*.
+I am a Senior Software Engineering Manager at GitHub![15368](https://user-images.githubusercontent.com/464067/167629563-40247edb-479a-44a0-8e56-c9807d3617bd.png).
+
 
 ---
 
