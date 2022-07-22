@@ -1,12 +1,14 @@
-![smooth-smoke-wave-simple](https://user-images.githubusercontent.com/464067/161755625-a73be719-befb-4baa-9e19-9071bbe20504.jpg)
+# 👋 Hi There, I'm Tina # 
 
 ### 🏢 On the Business side... ###
-I am a Senior Software Engineering Manager at GitHub  ![15368](https://user-images.githubusercontent.com/464067/167629563-40247edb-479a-44a0-8e56-c9807d3617bd.png).
+Senior Software Engineering Manager at GitHub, _where the world builds software_.<br />
+
+<img src="https://user-images.githubusercontent.com/464067/180512347-9682790c-e33a-4295-8eee-fd8f84ed5e7f.png"  width=50px />
 
 
 ---
 
-### 🐾 On the humanity side... ###
+### 🐾 On the personal side... ###
 **Business**
 
 I enjoy learning, sharing what I know, simplifying things, mentoring, being mentored and challenging others to reach for the stars. ✨
