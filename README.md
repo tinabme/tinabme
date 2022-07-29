@@ -1,7 +1,7 @@
 # 👋 Hi There, I'm Tina # 
 
 ### 🏢 On the Business side... ###
-Senior Software Engineering Manager at GitHub, _where the world builds software_.<br />
+Senior Manager, Software Engineering at GitHub, _where the world builds software_.<br />
 
 <img src="https://user-images.githubusercontent.com/464067/180512347-9682790c-e33a-4295-8eee-fd8f84ed5e7f.png"  width=50px />
 
