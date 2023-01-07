@@ -1,7 +1,7 @@
 # 👋 Hi There, I'm Tina # 
 
 ### 🏢 On the Business side... <img src="https://user-images.githubusercontent.com/464067/180512347-9682790c-e33a-4295-8eee-fd8f84ed5e7f.png"  width=50px /> ###
-<ul>Senior Manager, Software Engineering at [GitHub](https://docs.github.com/), <i>where the world builds software</>. </ul>
+<ul>Senior Manager, Software Engineering at <a href="https://docs.github.com" alt="GitHub">GitHub</a>, <i>where the world builds software</>. </ul>
 
 
 ---
@@ -17,7 +17,7 @@
 
 **Sports Teams**
 
-<ul>🏈 [Tampa Bay Buccaneers](https://www.buccaneers.com/)<br /> 🏑 [Tampa Bay Lightning](https://www.nhl.com/lightning)</ul>
+  <ul>🏈 <a href="https://www.buccaneers.com/" alt="Tampa Bay Buccaneers">Tampa Bay Buccaneers</a><br /> 🏑 <a href="https://www.nhl.com/lightning" alt="Tampa Bay Lightning">Tampa Bay Lightning</a></ul>
 
 
 ---
