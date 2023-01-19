@@ -1,6 +1,8 @@
 ## Flaky Pecan Pie ##
 
-A classic comforting crowd favorite dessert, welcome at any gathering (except maybe weight watchers :D) 
+A classic comforting crowd favorite dessert, welcome at any gathering. _(except maybe weight watchers :D)_ 
+
+<img height="400" alt="flaky pecan pie" src="https://user-images.githubusercontent.com/464067/213527941-6bb1e7dc-af7e-4051-a162-76568150f7c0.jpg" />
 
 
 **Ingredients + Measurements:**
@@ -45,11 +47,12 @@ Filling
 
 - Pour 1 cup of pecans on the bottom of the pie shell and then pour the syrup mixture over the top. 
 
-- Bake over preheated cookie sheet ~45 minutes or until center is set. After 15 to 20 minutes of baking you may need to cover crust edge with strips of foil to prevent excessive browning. Cool 30 minutes.
+- Bake over preheated cookie sheet ~45 minutes or until center is set. After 15 to 20 minutes of baking you may need to cover crust edge with strips of foil to prevent excessive browning.
+- <img width="250" alt="foil rim" src="https://user-images.githubusercontent.com/464067/213528416-80ffd19f-d668-4315-8d91-571956f85d2c.png">
+
+- Cool 30 minutes.
 
 - Cover and refrigerate any remaining pie.
-
-
 
 
 
