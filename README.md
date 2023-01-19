@@ -17,8 +17,12 @@
 
 **Sports Teams**
 
-  <ul>🏈 <a href="https://www.buccaneers.com/" alt="Tampa Bay Buccaneers">Tampa Bay Buccaneers</a><br /> 🏑 <a href="https://www.nhl.com/lightning" alt="Tampa Bay Lightning">Tampa Bay Lightning</a></ul>
+  <ul>🏈 <a href="https://www.buccaneers.com/" alt="Tampa Bay Buccaneers">Tampa Bay Buccaneers</a><br /> 🏑 <a href="https://www.nhl.com/lightning" alt="Tampa Bay Lightning">Tampa Bay Lightning</a><br /> 
+  ⚾ <a href="https://www.mlb.com/rays" alt="Tampa Bay Rays">Tampa Bay Rays</a></ul>
 
+ ---
+  
+.｡.∗⁕☆*:✧★✧:*☆⁕∗.｡.  Checkout [Grandma-Life](https://github.com/tinabme/tinabme/tree/main/grandma-life) for simple tips and lift hacks.   .｡.∗⁕☆*:✧★✧:*☆⁕∗.｡.
 
 ---
 
