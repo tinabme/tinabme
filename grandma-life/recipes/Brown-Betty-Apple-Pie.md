@@ -1,15 +1,15 @@
 ## Brown Betty Apple Pie ## 
 
-Grandma always brought a scrumptious pie to family gatherings, brown betty was one of my favorites.
+My Grandma always brought a scrumptious pie to family gatherings, brown betty was one of my favorites.
 
- 
+ <img width="600" alt="brownbettyapplepie" src="https://user-images.githubusercontent.com/464067/213494460-3a5d3712-bb7d-43f6-9a4c-c46df129244a.png">
+
  
 
 **Difficulty level (1-5 stars) \*1 being easy, 5 being difficult\*:**
 
 3 stars _(only because the crust has a wait time)_
 
- 
  
 
 **Ingredients + Measurements:**
