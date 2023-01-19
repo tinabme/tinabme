@@ -1,5 +1,7 @@
 ## White Chicken Chili Recipe ##
 
+<img width="450" alt="white chicken chili" src="https://user-images.githubusercontent.com/464067/213570884-bcc067eb-32ef-44c3-921c-53a2fa665bb2.jpg" />
+
 **Ingredients + Measurements:**
 
  - 1 t fresh ground pepper
