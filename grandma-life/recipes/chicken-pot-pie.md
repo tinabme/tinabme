@@ -2,6 +2,8 @@
 
  This is a warm creamy comfort dish, that is just good for the soul.
 
+<img width="600" alt="chicken pot pie" src="https://user-images.githubusercontent.com/464067/213799318-6a631daf-cb46-48b7-8799-23c597e6ace8.jpg" />
+
 **Difficulty level (1-5 stars) 1 being easy, 5 being difficult** 
  
 3 stars
