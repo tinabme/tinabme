@@ -7,6 +7,9 @@ Homemade chicken soup, pure soul warming comfort food.  This satisfying and simp
 4 stars (mainly because of the cook times and transistions)
 
 
+![IMG_0866](https://user-images.githubusercontent.com/464067/213895540-60ef1b46-fc41-45a6-817d-3317c79990c0.jpg)
+
+
 **Ingredients + Measurements:**
 
 Egg Noodles
@@ -48,6 +51,9 @@ Soup
   - Roll out on floured surface (~1/16 in or 2 mm thick) 
 
   - Cut into strips between 1/4 to 1/2 in wide and 1 to 2 in long _(doesn't need to be perfect, and they will expand slightly)_ leaving then in-place to dry out a bit
+
+  - ![IMG_0863](https://user-images.githubusercontent.com/464067/213895551-55c3bc7c-243a-4dbc-b711-7e206df4b4a6.jpg)
+
 
 - After the chicken has simmered for 1 to 1 1/2 hours, using tongs flip the chicken over to breast side down. Careful not to splash and try to keep the chicken whole _(no worries if it breaks, you'll just need to find all the bones later)_
 
