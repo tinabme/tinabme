@@ -22,7 +22,7 @@
 
  ---
   
-.｡.∗⁕☆*:✧★✧:*☆⁕∗.｡.  Checkout [Grandma-Life](https://github.com/tinabme/tinabme/tree/main/grandma-life) for simple tips and lift hacks.   .｡.∗⁕☆*:✧★✧:*☆⁕∗.｡.
+.｡.∗⁕☆*:✧★✧:*☆⁕∗.｡.  Checkout [Grandma-Life](https://github.com/tinabme/tinabme/tree/main/grandma-life) for simple tips and life hacks.   .｡.∗⁕☆*:✧★✧:*☆⁕∗.｡.
 
 ---
 
