@@ -4,7 +4,7 @@ Homemade chicken soup, pure soul warming comfort food.  This satisfying and simp
 
 **Difficulty level (1-5 stars) 1 being easy, 5 being difficult** 
 
-4 stars (mainly because of the cook times and transistions)
+4 stars (mainly because of the cook times and transitions)
 
 
 ![IMG_0866](https://user-images.githubusercontent.com/464067/213895540-60ef1b46-fc41-45a6-817d-3317c79990c0.jpg)
