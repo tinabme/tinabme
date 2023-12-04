@@ -10,8 +10,8 @@ Super easy biscuits you can enjoy with any meal.
 
 **Ingredients + Measurements:**
 
--	2 1/2 cups baking mix ~(or Bisquick)~
--	1/2 cup 7up or sprite ~(or lemon lime soda)~
+-	2 1/2 cups baking mix _(or Bisquick)_
+-	1/2 cup 7up or sprite _(or lemon lime soda)_
 -	1/2 cup sour cream
 -	1/4 cup butter melted
 
