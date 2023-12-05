@@ -2,7 +2,7 @@
 
 Super easy biscuits you can enjoy with any meal.
 
-![7up_biscuits](https://github.com/tinabme/tinabme/assets/464067/0a7cc4ac-f0e5-4438-99dd-2ccaf1dbf712)
+![biscuits](https://github.com/tinabme/tinabme/assets/464067/dd9d650d-1b7d-4ba3-ab62-b3255ab40210)
 
 **Difficulty level (1-5 stars) \*1 being easy, 5 being difficult\*:** 
 
