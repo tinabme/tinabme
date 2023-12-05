@@ -1,6 +1,6 @@
 ## Easy 7up Biscuits ##
 
-Super easy biscuits you can enjoy with any meal.
+Super easy, fluffy, buttery, mouthwatering biscuits you can enjoy with any meal.
 
 ![biscuits](https://github.com/tinabme/tinabme/assets/464067/dd9d650d-1b7d-4ba3-ab62-b3255ab40210)
 
